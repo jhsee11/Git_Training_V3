@@ -1,4 +1,7 @@
 This is Sample File 1
 make some changes
 This is comparison lecture
+
 This is Stash Lecture, change in Main File
+
+This is a Stash Lecture, Change in File1
